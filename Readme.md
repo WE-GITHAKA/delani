@@ -1,4 +1,4 @@
-#### DELANI STUDIO
+# DELANI STUDIO
 
 ### AUTHOR
 Wendo Githaka
