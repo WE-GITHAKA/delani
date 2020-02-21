@@ -27,13 +27,21 @@ There are currently no bugs detected
 ### LIVE PAGE 
 https://we-githaka.github.io/delani/
 
-### SCREENSHOT
-
 
 ### BEHAVIOUR DRIVEN DEVELOPMENT 
-* Displays form to enter name and e-mail address
-* Displays a form to enter a comment
-* Gives a message to the user confirming their details and e-mail address has been received
+* Landing page
+The mouse icon gives a bouncing effect
+
+* What we do section
+Clicking on icons displays description
+And clicking on the descriptions again hides them and displays the icons
+
+* Portfolio section
+Hover effect on each image to display respective descriptions
+
+* Contact us section
+Form is filled and a pop up notification thanks for the feedback
+
 
 ### LICENSE
 MIT License
