@@ -31,4 +31,9 @@ https://we-githaka.github.io/delani/
 
 
 ### BEHAVIOUR DRIVEN DEVELOPMENT 
+* Displays form to enter name and e-mail address
+* Displays a form to enter a comment
+* Gives a message to the user confirming their details and e-mail address has been received
+
+
 
