@@ -23,3 +23,42 @@
     padding-bottom: 30px; 
     /* animation-iteration-count: infinite; */
   }
+  .landing h1{
+    padding: 2px;
+    margin: 5px;
+  }
+  .landing p{
+    padding: 2px;
+  }
+
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-55px);
+    }
+    60% {
+      transform: translateY(-45px);
+    }
+  }
+  
+  .about{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top:40px;
+    font-family: 'Copse', serif;
+  }
+  #about{
+    font-family: 'Gabriela', serif;
+  }
+  .services{
+    text-align: center;
+    background-image: url("img/h_img.jpg");
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Copse', serif;
+    font-size: 18px;
+  }
