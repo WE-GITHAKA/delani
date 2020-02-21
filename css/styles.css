@@ -9,3 +9,17 @@
     font-family: 'Gabriela', serif;
     /* padding-bottom:5%; */
   }
+  @import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+
+  #logo{
+    margin-top: 12px;
+    margin-bottom: 24px;
+    width: 70px;
+    height: 70px;;
+  }
+  #mouse-click{
+    padding-top : 22px;
+    margin-top: 10%;
+    padding-bottom: 30px; 
+    /* animation-iteration-count: infinite; */
+  }
