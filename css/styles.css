@@ -276,3 +276,364 @@ footer p{
     margin-right: 10%; 
   }
 }
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay {
+  opacity: 1;
+}
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay2 {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay2{
+  opacity: 1;
+}
+
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay2{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay2 {
+  opacity: 1;
+}
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay3{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay3 {
+  opacity: 1;
+}
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay3 {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay3 {
+  opacity: 1;
+}
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay4{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay4{
+  opacity: 1;
+}
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay5{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay5 {
+  opacity: 1;
+}
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay6{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay6 {
+  opacity: 1;
+}
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay7{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay7 {
+  opacity: 1;
+}
+* {box-sizing: border-box}
+
+/* .col-md-3 needed to position the overlay. Adjust the width as needed */
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the .col-md-3 and over the image */
+.overlay8{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the .col-md-3, fade in the overlay title */
+.col-md-3:hover .overlay8{
+  opacity: 1;
+}
