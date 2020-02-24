@@ -13,6 +13,24 @@ A visually appealing and responsive studio website with a detailed account of se
 * BOOTSTRAP
 * MARKDOWN
 
+### DEPENDENCIES
+ The site uses mail chimp as an API to track emails from contact session
+
+ ### SECTIONS
+
+ * ABOUT US
+ * SERVICES
+ * WHAT WE DO
+ * PORTFOLIO
+ * CONTACT US
+
+ ### CONTACTS INFORMATION
+
+ For any queries or suggestions contact me using my email-address 
+ tetrazinisandra@gmail.com
+
+
+
 ### SET UP AND INSTALLATION
 
 * Git clone the repository
